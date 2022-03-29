@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Don't take A right Decisions , take Decisions and make them right" - Mr Ratanji Tata
 Use the left arrow to go back!
